@@ -1,0 +1,5 @@
+scipy
+pygsp
+pyprof2calltree
+pygraphviz
+fancyimpute
